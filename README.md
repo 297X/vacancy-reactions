@@ -1,0 +1,1 @@
+# Vacancy Reactions\n\nПроект по анализу реакций на вакансии в Data Science.\n\n## Структура проекта:\n- **vacancy_reactions.ipynb**: Анализ данных.\n- **data science jobs data/**: Данные о вакансиях.\n- **ods data/**: Данные из ODS.\n- **not boring ds obs data/**: Дополнительные данные.
