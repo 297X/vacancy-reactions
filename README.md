@@ -26,3 +26,4 @@ https://t.me/datascienceml_jobs
 - **vacancy_reactions.ipynb**: Анализ данных.
 - **в папках** данные из разных telegram каналов
 - **enrich-ods.py** - парсер, достаёт всю информацию о вакансии с сайта и меняет сообщение
+- **Report SaifullinR.O.pf** - отчёт о проделанной работе
