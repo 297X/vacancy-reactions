@@ -23,7 +23,7 @@ https://t.me/datascienceml_jobs
 - C: 3 группы (negative, neutral, positive)
 
 ## Структура проекта:
-- **vacancy_reactions.ipynb**: Пайплайн проекта от данных до результатов
+- **vacancy_reactions.ipynb**: пайплайн проекта от данных до результатов
 - **в папках** данные из разных telegram каналов
 - **enrich-ods.py** - парсер, достаёт всю информацию о вакансии с сайта и меняет сообщение
-- **Report SaifullinR.O.pf** - отчёт о проделанной работе
+- **Report Saifullin R.O.pf** - отчёт о проделанной работе
